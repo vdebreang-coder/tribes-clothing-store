@@ -1,1 +1,1 @@
-# tribes-clothing-store
+# class html and css
